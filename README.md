@@ -14,7 +14,7 @@
 
 Course Assistant
 
-* SMA
+* [Sai Manideep Allu](https://github.com/saimanideepallu)
 
 Client Team 1
 
@@ -46,7 +46,7 @@ Client Team 4
 
 Client Team 5
 
-* PRG
+* [Pramod Reddy Gonegari](https://github.com/pramod096)
 * NKG
 * NRNM
 * AR
@@ -60,7 +60,7 @@ Client Team 6
 
 Client Team 7
 
-* [Giridhar Addagalla](https://github.com/giridhar196)
+* GA
 * TRN
 * VT
 * PT
